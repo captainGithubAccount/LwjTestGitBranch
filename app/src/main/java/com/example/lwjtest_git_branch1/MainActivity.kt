@@ -19,4 +19,8 @@ class MainActivity : AppCompatActivity() {
     fun b3Add(){
         //b3添加的代码
     }
+
+    fun b3ThisFun(){
+        //b3Alter
+    }
 }
