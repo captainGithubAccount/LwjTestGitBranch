@@ -11,9 +11,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun startAlterTheSavePos(){
-        //branch3: 我修改了这里
-        //branch3: 我修改了这里
-
-
+        //branch2: 我修改了这里
+        //branch2: 我修改了这里
     }
 }
