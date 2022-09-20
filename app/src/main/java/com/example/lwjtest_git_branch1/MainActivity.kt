@@ -14,4 +14,9 @@ class MainActivity : AppCompatActivity() {
         //branch2: 我修改了这里
         //branch2: 我修改了这里
     }
+
+
+    fun b3Add(){
+        //b3添加的代码
+    }
 }
