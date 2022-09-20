@@ -9,4 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         //来自branch3分支修改的
     }
+
+    fun startAlterTheSavePos(){
+        //branch2: 我修改了这里
+        //branch2: 我修改了这里
+    }
 }
