@@ -40,4 +40,10 @@ class MainActivity : AppCompatActivity() {
     fun b3ThisFun(){
         //b3Alter
     }
+
+
+    //假设我添加了代码
+    fun fun1(){
+        //无广告部分添加的代码
+    }
 }
