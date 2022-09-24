@@ -23,4 +23,8 @@ class MainActivity : AppCompatActivity() {
     fun b3ThisFun(){
         //b3Alter
     }
+
+    fun newNeed(){
+        //2022-09-24 branch3
+    }
 }
