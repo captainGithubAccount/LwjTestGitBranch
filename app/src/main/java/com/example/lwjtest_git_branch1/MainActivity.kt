@@ -28,4 +28,8 @@ class MainActivity : AppCompatActivity() {
         //2022-09-24 branch3
     }
     //ddd
+
+    fun ad(){
+        //有广告部分执行广告的代码
+    }
 }
