@@ -42,8 +42,10 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-    //假设我添加了代码
+    //新名字修改原来
     fun fun1(){
         //无广告部分添加的代码
     }
+
+    //新名字添加新需求
 }
