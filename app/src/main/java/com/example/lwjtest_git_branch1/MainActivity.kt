@@ -44,6 +44,8 @@ class MainActivity : AppCompatActivity() {
 
     //假设我添加了代码
     fun fun1(){
-        //无广告部分添加的代码
+        //无广告部分代码进行修改了............
     }
+
+    //新增广告
 }
